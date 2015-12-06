@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15515&task=get",
-    "timestamp": "1449366780",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15517&task=get",
+    "timestamp": "1449371206",
     "api_level": "23",
-    "md5sum": "76dcc451873d06ba519e87ef8016136e",
-    "filename": "cm-13.0-20151205-MARSH1.6.1-bacon",
+    "md5sum": "35fb0d43ec97d08905c8bb9ae360586f",
+    "filename": "cm-13.0-20151206-MARSH1.6.1-bacon.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
