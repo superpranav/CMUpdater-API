@@ -1,16 +1,6 @@
 {
  "id": null,
  "result": [
-    {
-    "url": "https://github.com/Aaahh/CMUpdater-API/releases/download/2.0/cm-13.0-20160510-MARSH-2.0-bacon.zip",
-    "timestamp": "1462406999",
-    "api_level": "23",
-    "md5sum": "aa63acc34f291268541225dd9ba5f522",
-    "filename": "cm-13.0-20160510-MARSH-2.0-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    }
   ],
  "error": null
 }
