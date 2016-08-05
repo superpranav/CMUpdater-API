@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "https://github.com/jhalayashraj/CMUpdater-API/releases/download/2.1/cm-13.0-20160728-LegendROM-2.0-bacon.zip",
-    "timestamp": "9114207206",
+    "url": "https://github.com/jhalayashraj/CMUpdater-API/releases/download/2.1/cm-13.0.1-20160804-LegendROM-2.0-bacon.zip",
+    "timestamp": "9114207207",
     "api_level": "23",
-    "md5sum": "ae149a5e84da6a419cd92bdb23a7e284",
-    "filename": "cm-13.0-20160728-LegendROM-2.0-bacon.zip",
+    "md5sum": "4c386612e42bb39057c3bfad15c44b13",
+    "filename": "cm-13.0.1-20160804-LegendROM-2.0-bacon.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
