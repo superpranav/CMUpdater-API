@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "https://www.androidfilehost.com/?fid=745425885120699902",
-    "timestamp": "1484956800",
+    "url": "https://www.androidfilehost.com/?fid=673368273298925419",
+    "timestamp": "1484998830",
     "api_level": "25",
-    "md5sum": "22a2b7967e423741acdde1ef35f91241",
-    "filename": "lineage-14.1-20170112-LegendROM-10.0-bacon.zip",
+    "md5sum": "a4f93ca4bee8431b2d19d69bec6d98ba",
+    "filename": "lineage-14.1-20170121-LegendROM-11.0-bacon.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
